@@ -26,10 +26,11 @@ Desenvolvedor backend especializado na stack .NET.
 
 ---
 
-## 🌱 O que estou aprendendo
+## 🌱 O que mais estou estudando
 
 ![Angular](https://img.shields.io/badge/Angular-18-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-ec810b?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
