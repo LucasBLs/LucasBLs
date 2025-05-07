@@ -22,7 +22,7 @@ Desenvolvedor backend especializado na stack .NET.
 
 ## 🏢 Experiência Profissional
 
-[**Qualidoc**](https://www.qualidoc.com.br/) | Analista Desenvolvedor
+Analista Desenvolvedor
 
 ---
 
