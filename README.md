@@ -44,7 +44,6 @@ Analista Desenvolvedor
 ## 📫 Contato
 
 ![Location](https://img.shields.io/badge/Location-Barueri,%20São%20Paulo,%20Brasil-512BD4?style=for-the-badge&logo=location&logoColor=white)
-![Email](https://img.shields.io/badge/Email-lucasblemos@hotmail.com-512BD4?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasblemos)
 
 ---
