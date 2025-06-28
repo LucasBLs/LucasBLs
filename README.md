@@ -51,4 +51,4 @@ Analista Desenvolvedor
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasBLs&theme=dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBLs&show_icons=true&theme=dark&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
