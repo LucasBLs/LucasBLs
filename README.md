@@ -50,4 +50,4 @@ Analista Desenvolvedor
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasBLs&show_icons=true&theme=dark&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasBLs&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
